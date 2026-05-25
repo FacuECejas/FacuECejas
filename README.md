@@ -2,7 +2,7 @@
 
 🇦🇷 I'm from Argentina
 
-🖥️ I'm a third-year student of Computer Science at FAMAF, UNC.
+🖥️ I'm a fifth-year student of Computer Science at FAMAF, UNC.
 
 🚀 I aspire to be a software developer.
 
